@@ -2,6 +2,8 @@
 
 基于 24 份 AI PM 课程笔记，用 RAG + DeepSeek 帮你把简历优化成招聘方想要的样子。
 
+> 📍 项目地址：https://github.com/wbbdsgzs-hub/ai-pm-resume-agent
+
 ## ✨ 功能
 
 ### 📝 简历分析（9 步专业流程）
