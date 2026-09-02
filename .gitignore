@@ -1,0 +1,16 @@
+# 密钥文件（含 API Key，绝对不能提交）
+.env
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 向量库（本地构建产物，README 中有重建说明）
+chroma_db/
+
+# 临时文件
+*.tmp
+_check.js
+
+# 课程笔记不在本仓库（放在项目同级目录，见 config.py 的 NOTES_DIR）
